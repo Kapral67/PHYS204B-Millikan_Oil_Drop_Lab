@@ -4,7 +4,7 @@
  - `data.csv`: This file contains the class data averages (q).
  
 ## Docs
- - This folder contains `Histogram.html` which is accessible via Github Pages.
+ - This folder contains `index.html` (same contents as the `.ipynb` file) and is accessible via [Github Pages](https://kapral67.github.io/PHYS204B-Millikan_Oil_Drop_Lab/).
  
 ## Releases
  - This section contains the same code from the `.ipynb` file in more accessible formats. E.g. `.pdf` and `.Rmd`.
